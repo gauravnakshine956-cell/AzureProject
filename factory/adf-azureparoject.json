@@ -1,0 +1,9 @@
+{
+	"name": "adf-azureparoject",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea87a3ea-5d5f-4355-afa2-53c29c0c28fa",
+		"tenantId": "a0fa6a1d-188f-468a-b99a-35f299ff93a7"
+	}
+}
